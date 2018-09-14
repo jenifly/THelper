@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="THelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NOTIFYICON" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BASECOLOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#8FBC8F</Value>
+    </Setting>
+    <Setting Name="MAINCOLOR" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFFFFF</Value>
+    </Setting>
+    <Setting Name="MAINTOP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="GETWORDTOP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ORCTOP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ATUOSTART" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="HOTKEYMAIN" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="HOTKEYGETWORD" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">101</Value>
+    </Setting>
+    <Setting Name="HOTKEYORC" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">102</Value>
+    </Setting>
+    <Setting Name="ATUOUPDATE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TIMEOUT" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="DEFAULTTRANSL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WINDOWSATUTS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
