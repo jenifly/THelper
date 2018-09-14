@@ -1,0 +1,20 @@
+# THelper
+界面基本采用html与c#的graphics绘制<br>
+```
+实现功能：
+  1.截屏OCR识别翻译
+  2.鼠标划词翻译
+  3.更新功能
+  4.界面主题设置
+  ...
+```
+![dome](https://github.com/jenifly/THelper/blob/master/pics/000.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/001.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/002.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/003.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/004.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/005.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/006.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/007.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/008.png)
+![dome](https://github.com/jenifly/THelper/blob/master/pics/010.png)
